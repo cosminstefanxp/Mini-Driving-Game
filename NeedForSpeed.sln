@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NeedForSpeed", "NeedForSpeed.vcproj", "{97A8E884-905B-415E-AC66-A758BBC9181C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97A8E884-905B-415E-AC66-A758BBC9181C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{97A8E884-905B-415E-AC66-A758BBC9181C}.Debug|Win32.Build.0 = Debug|Win32
+		{97A8E884-905B-415E-AC66-A758BBC9181C}.Release|Win32.ActiveCfg = Release|Win32
+		{97A8E884-905B-415E-AC66-A758BBC9181C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
